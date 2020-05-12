@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8fc2af4-9e3c-4ccc-a8cb-fd60b6aad500" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bliKXHaV51Fxb8OxdyEOjgRorJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8fc2af4-9e3c-4ccc-a8cb-fd60b6aad500" name="Default Changelist" comment="" />
+      <created>1589213017919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589213017919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="202" key="#Notifications" timestamp="1589213051822">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="202" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1589213051822" />
+    <state x="214" y="0" key="SettingsEditor" timestamp="1589285224019">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="169" y="0" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589266431397" />
+    <state x="214" y="0" key="SettingsEditor/0.0.1739.978@0.0.1739.978" timestamp="1589285224019" />
+    <state x="463" y="186" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1589213345007" />
+  </component>
+</project>
