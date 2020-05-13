@@ -31,10 +31,12 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #aaffaa;
     float: right;
-    font-size: 26pt;
-    margin-right: 20px;
+    font-size: 30pt;
+    font-family: 'Lobster', cursive;
+    margin-top: 19px;
+    margin-right: 15px;
 }
 
 .post {
