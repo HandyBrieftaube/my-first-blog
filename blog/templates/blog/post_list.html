@@ -1,11 +1,11 @@
-<html>
-    <head>
-        <title>Meine erste Webseite :)</title>
-    </head>
-    <body>
-        <div>
-            <h1>Was soll das hier?</h1>
-            <p>Tja Natalie, das ist mein erster (sehr einfacher) Versuch. Gefällt es Dir?</p>
+{% extends 'blog/base.html' %}
+
+{% block content %}
+    {% for post in posts %}
+        <div class="post">
+            <div class="date">{{ post.published_date }}</div>
+            <h2><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h2>
+            <p>{{ post.text|linebreaksbr }}</p>
         </div>
-    </body>
-</html>
+    {% endfor %}
+{% endblock %}
