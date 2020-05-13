@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d8fc2af4-9e3c-4ccc-a8cb-fd60b6aad500" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,5 +75,9 @@
     <state x="169" y="0" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589266431397" />
     <state x="214" y="0" key="SettingsEditor/0.0.1739.978@0.0.1739.978" timestamp="1589288587270" />
     <state x="463" y="186" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1589213345007" />
+    <state x="504" y="24" width="731" height="930" key="find.popup" timestamp="1589370671872">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="504" y="24" width="731" height="930" key="find.popup/0.0.1739.978@0.0.1739.978" timestamp="1589370671872" />
   </component>
 </project>
